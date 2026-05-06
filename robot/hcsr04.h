@@ -1,0 +1,19 @@
+#ifndef HCSR04_H_
+#define HCSR04_H_
+
+#include "../../LP_MSPM0G3507/bsp.h"
+
+#define ULTRASONIC_ECHO_PORT GPIOB
+#define ULTRASONIC_ECHO_PIN 12
+#define ULTRASONIC_ECHO_MASK ((uint32_t)(0x00000001U << ULTRASONIC_ECHO_PIN))
+#define ULTRASONIC_ECHO_INDEX PB12INDEX
+
+#define ULTRASONIC_TRIG_PORT GPIOB
+#define ULTRASONIC_TRIG_PIN 17
+#define ULTRASONIC_TRIG_MASK ((uint32_t)(0x00000001U << ULTRASONIC_TRIG_PIN))
+#define ULTRASONIC_TRIG_INDEX PB17INDEX
+
+void initializeUltrasonic(void);
+float readUltrasonic(void);
+
+#endif

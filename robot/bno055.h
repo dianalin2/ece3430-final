@@ -1,0 +1,23 @@
+#ifndef _BNO055_H_
+#define _BNO055_H_
+
+#include "../../LP_MSPM0G3507/i2c.h"
+
+#define BNO055_ADDRESS (0x28)
+#define BNO055_OPERATION_MODE_NDOF (0X0C)
+#define BNO055_OPR_MODE_ADDR (0X3D)
+#define BNO055_UNIT_SEL_ADDR (0X3B)
+#define BNO055_ACCEL_DATA_X_ADDR (0X08)
+#define BNO055_ACCEL_DATA_Y_ADDR (0X0A)
+#define BNO055_ACCEL_DATA_Z_ADDR (0X0C)
+#define BNO055_LINEAR_ACCEL_DATA_X_ADDR (0X28)
+#define BNO055_LINEAR_ACCEL_DATA_Y_ADDR (0X2A)
+#define BNO055_LINEAR_ACCEL_DATA_Z_ADDR (0X2C)
+#define BNO055_EULER_H_ADDR (0X1A)
+#define BNO055_EULER_R_ADDR (0X1C)
+#define BNO055_EULER_P_ADDR (0X1E)
+
+void initializeBNO055(I2C_Regs *i2c);
+int16_t readBNO055(I2C_Regs *i2c, uint8_t SensorRegisterAddress);
+
+#endif
