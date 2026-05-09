@@ -1,7 +1,7 @@
 #ifndef HCSR04_H_
 #define HCSR04_H_
 
-#include "../../LP_MSPM0G3507/bsp.h"
+#include "../../../LP_MSPM0G3507/bsp.h"
 
 #define ULTRASONIC_ECHO_PORT GPIOB
 #define ULTRASONIC_ECHO_PIN 12

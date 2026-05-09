@@ -1,7 +1,7 @@
 # FIXED
 
-motors.o: ../motors.c ../motors.h ../../../LP_MSPM0G3507/timer.h \
- ../../../LP_MSPM0G3507/bsp.h ../../../LP_MSPM0G3507/clock.h \
+motors.o: ../motors.c ../motors.h ../../../../LP_MSPM0G3507/timer.h \
+ ../../../../LP_MSPM0G3507/bsp.h ../../../../LP_MSPM0G3507/clock.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/msp.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/DeviceFamily.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/m0p/mspm0g350x.h \
@@ -86,9 +86,9 @@ motors.o: ../motors.c ../motors.h ../../../LP_MSPM0G3507/timer.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/driverlib/m0p/dl_interrupt.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/driverlib/m0p/dl_systick.h
 ../motors.h:
-../../../LP_MSPM0G3507/timer.h:
-../../../LP_MSPM0G3507/bsp.h:
-../../../LP_MSPM0G3507/clock.h:
+../../../../LP_MSPM0G3507/timer.h:
+../../../../LP_MSPM0G3507/bsp.h:
+../../../../LP_MSPM0G3507/clock.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/msp.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/DeviceFamily.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/m0p/mspm0g350x.h:
