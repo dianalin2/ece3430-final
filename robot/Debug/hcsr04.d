@@ -1,7 +1,7 @@
 # FIXED
 
-hcsr04.o: ../hcsr04.c ../hcsr04.h ../../../LP_MSPM0G3507/bsp.h \
- ../../../LP_MSPM0G3507/clock.h \
+hcsr04.o: ../hcsr04.c ../hcsr04.h ../../../../LP_MSPM0G3507/bsp.h \
+ ../../../../LP_MSPM0G3507/clock.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/msp.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/DeviceFamily.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/m0p/mspm0g350x.h \
@@ -33,8 +33,8 @@ hcsr04.o: ../hcsr04.c ../hcsr04.h ../../../LP_MSPM0G3507/bsp.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/peripherals/m0p/hw_sysctl.h \
  /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/peripherals/m0p/sysctl/hw_sysctl_mspm0g1x0x_g3x0x.h
 ../hcsr04.h:
-../../../LP_MSPM0G3507/bsp.h:
-../../../LP_MSPM0G3507/clock.h:
+../../../../LP_MSPM0G3507/bsp.h:
+../../../../LP_MSPM0G3507/clock.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/msp.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/DeviceFamily.h:
 /home/diana/ti/mspm0_sdk_2_10_00_04/source/ti/devices/msp/m0p/mspm0g350x.h:

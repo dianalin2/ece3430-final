@@ -146,7 +146,7 @@ all: $(OBJS) $(CMD_SRCS) $(GEN_CMDS)
 robot.out: $(OBJS) $(CMD_SRCS) $(GEN_CMDS)
 	@echo 'Building target: "$@"'
 	@echo 'Invoking: Arm Linker'
-	"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/bin/tiarmclang" -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O2 -D__MSPM0G3507__ -gdwarf-3 -Wall -Wl,-m"robot.map" -Wl,-i"/home/diana/ti/mspm0_sdk_2_10_00_04/source" -Wl,-i"/home/diana/workspace_ccstheia/robot" -Wl,-i"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="robot_linkInfo.xml" -Wl,--rom_model -o "robot.out" $(ORDERED_OBJS)
+	"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/bin/tiarmclang" -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O2 -D__MSPM0G3507__ -gdwarf-3 -Wall -Wl,-m"robot.map" -Wl,-i"/home/diana/ti/mspm0_sdk_2_10_00_04/source" -Wl,-i"/home/diana/workspace_ccstheia/ece3430-final/robot" -Wl,-i"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="robot_linkInfo.xml" -Wl,--rom_model -o "robot.out" $(ORDERED_OBJS)
 	@echo 'Finished building target: "$@"'
 	@echo ' '
 

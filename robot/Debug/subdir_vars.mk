@@ -47,7 +47,6 @@ C_DEPS__QUOTED += \
 "ti_msp_dl_config.d" 
 
 C_SRCS__QUOTED += \
-"../bno055.c" \
 "../hcsr04.c" \
 "../main.c" \
 "../motors.c" \

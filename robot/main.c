@@ -1,6 +1,6 @@
-#include "../../LP_MSPM0G3507/bsp.h"
-#include "../../LP_MSPM0G3507/mspm0g350x_int.h"
-#include "../../LP_MSPM0G3507/uart.h"
+#include "../../../LP_MSPM0G3507/bsp.h"
+#include "../../../LP_MSPM0G3507/mspm0g350x_int.h"
+#include "../../../LP_MSPM0G3507/uart.h"
 #include "bno055.h"
 #include "hcsr04.h"
 #include "motors.h"
@@ -42,6 +42,7 @@ int main(void) {
 
   i2c1_config.ClockFrequency = ClockFrequency;
   InitializeI2C(I2C1, &i2c1_config);
+  ClockDelay(ClockFrequency);
   initializeBNO055(I2C1);
 
   while (1) {

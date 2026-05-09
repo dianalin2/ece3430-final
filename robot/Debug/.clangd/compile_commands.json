@@ -1,92 +1,92 @@
 [
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/startup_mspm0g350x_ticlang.c"
-   },
-   {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/ti_msp_dl_config.c"
-   },
-   {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/LCD.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/MKII.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/SPI.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/bsp.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/clock.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/i2c.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/mspm0g350x_int.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/opt3001.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/scheduler.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/timer.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/tmp006.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
       "file"      : "/home/diana/LP_MSPM0G3507/uart.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/main.c"
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/bno055.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/motors.c"
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/hcsr04.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/hcsr04.c"
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/main.c"
    },
    {
-      "directory" : "/home/diana/workspace_ccstheia/robot/Debug",
-      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
-      "file"      : "/home/diana/workspace_ccstheia/robot/bno055.c"
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/motors.c"
+   },
+   {
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/startup_mspm0g350x_ticlang.c"
+   },
+   {
+      "directory" : "/home/diana/workspace_ccstheia/ece3430-final/robot/Debug",
+      "command"   : "clang++ -I\"/home/diana/workspace_ccstheia/ece3430-final/robot\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"/home/diana/ti/mspm0_sdk_2_10_00_04/source\" -D__MSPM0G3507__ -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"/opt/ti/ccs2040/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "/home/diana/workspace_ccstheia/ece3430-final/robot/ti_msp_dl_config.c"
    }
 ]

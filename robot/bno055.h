@@ -1,7 +1,7 @@
 #ifndef _BNO055_H_
 #define _BNO055_H_
 
-#include "../../LP_MSPM0G3507/i2c.h"
+#include "../../../LP_MSPM0G3507/i2c.h"
 
 #define BNO055_ADDRESS (0x28)
 #define BNO055_OPERATION_MODE_NDOF (0X0C)

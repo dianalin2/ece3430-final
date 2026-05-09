@@ -29,8 +29,10 @@ float readUltrasonic(void) {
   ClockDelay(320); // 10 us
   turnOffTrig();
 
-  while (!readEcho())
+  unsigned long cnt = 0;
+  while (!readEcho() && ++cnt < 2048) {
     ClockDelay(32);
+  }
 
   unsigned long delta = 0;
   while (readEcho()) {

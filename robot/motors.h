@@ -1,7 +1,7 @@
 #ifndef MOTORS_H_
 #define MOTORS_H_
 
-#include "../../LP_MSPM0G3507/timer.h"
+#include "../../../LP_MSPM0G3507/timer.h"
 #include "PWM.h"
 
 #define LEFT_MOTOR_PWM_PORT GPIOA
